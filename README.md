@@ -3,7 +3,7 @@ Used JavaScript, PHP,HTML,CSS and MySQL to create a web based Netflix clone whic
 
 - Working Version of Full Stack Netflix Clone build using HTML5, CSS, jQuery/Ajax and PHP.
 
-  ![register](https://github.com/bhanupratap78/Spotify_Clone/blob/master/assets/demo/4.png)
+  ![register](https://github.com/bhanupratap78/Netflix_clone/blob/master/assets/demo/demo.gif)
 
 ## Table of Content
 - [Installation](#Installatio)
@@ -34,12 +34,6 @@ Used JavaScript, PHP,HTML,CSS and MySQL to create a web based Netflix clone whic
 - Now go to http://localhost:8080/Spotify_Clone/register.php to access the registration page, Make sure to register for your own user profile and then log in to the system.
 
 - Now in order to stream videos user must subscribe the services, for that you can paypal account details like ClientID, ClientSecret in paypalConfig.php file, then you can click on Subscribe to Netflix in user tab, or you can edit your users isSubscribed value to 1 in users table in database.
-
-![spotify](https://github.com/bhanupratap78/Spotify_Clone/blob/master/assets/demo/1.png)
-
-![spotify](https://github.com/bhanupratap78/Spotify_Clone/blob/master/assets/demo/2.png)
-
-![spotify](https://github.com/bhanupratap78/Spotify_Clone/blob/master/assets/demo/3.png)
 
 ## Frontend And Backend Languages Used
 - HTML
